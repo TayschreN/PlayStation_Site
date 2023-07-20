@@ -1,2 +1,2 @@
 # PlayStation_Site
- Página "Gamer" utilizando HTML, CSS e JS.
+ Página responsiva utilizando HTML, CSS e JS.
